@@ -1,0 +1,28 @@
+h1{
+    text-align:center;
+    }
+#Subheaders{
+    display:flex;
+    justify-content: space-around;
+    border:3px solid black;
+    border-radius:25px;
+    margin:25px;
+    }
+#item{
+    display:flex;
+    justify-content: space-around;
+    }
+#inputs{
+    display:flex;
+    justify-content: space-around;
+    margin:45px;
+}
+#buttons{
+    display:flex;
+    justify-content: center;
+    margin:45px;
+}
+#total{
+    border:3px solid black;
+    border-radius:25px;
+    }
